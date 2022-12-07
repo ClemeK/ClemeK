@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClemeK
-- 👀 I’m interested in ... Book, Films, Fitness, Coding
-- 🌱 I’m currently learning C#, WPF
-- 💞️ I’m looking to collaborate on anything, as I have just finished an online C# course, and want to get some practice in.
+- 👀 I’m interested in ... Book, Films, Fitness, Coding.
+- 🌱 I’m currently using C#, WPF and tring C++
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... KelvinAtGithub@outlook.com
 
 <!---
